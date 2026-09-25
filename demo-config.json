@@ -1,0 +1,12 @@
+{
+  "product": "Andy-Blaise Agent IA Commercial",
+  "edition": "DEMO",
+  "platforms": [
+    "Windows",
+    "Android"
+  ],
+  "demo_duration_hours": 2,
+  "expiration_control": "server",
+  "redirect_after_expiration": "https://www.andy-blaise.com/",
+  "status": "development"
+}
